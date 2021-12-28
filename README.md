@@ -36,28 +36,51 @@ An example of what a .sm file looks like below:
 
 
 #TITLE:;
+
 #BPMS:0.000=200.000;
+
 //--------------- dance-single -  ----------------
+
 #NOTES:
-     dance-single:
-     :
-     Beginner:
-     1:
-     0,0,0,0,0:
+
+dance-single:
+
+:
+
+Beginner:
+
+1:
+
+0,0,0,0,0:
+
 0000
+
 0000
+
 0000
+
 0000
+
 ,
+
 1100
+
 0010
+
 0001
+
 0010
+
 0100
+
 1000
+
 0100
+
 0010
+
 ;
+
 
 
 
